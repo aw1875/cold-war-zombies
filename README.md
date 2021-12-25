@@ -50,7 +50,7 @@ This tool was made for multiple groups within the call of duty modding community
 -   Kick (kicks player from game)
 -   Bring To Me (brings player to host location)
 
-Most of these offsets are probably outdated based on the current Cold War version as I have not kept it up to date (since I have no interest). If you would like to update the offsets it is definitely doable and the tool should be function properly with the updated offsets.
+Most of these offsets are probably outdated based on the current Cold War version as I have not kept it up to date (since I have no interest). If you would like to update the offsets it is definitely doable and the tool should function properly with the updated offsets.
 
 ### Created For
 
